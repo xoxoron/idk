@@ -25,7 +25,7 @@
 	 background(29, 40, 115);
       fill(255, 242, 0);
       //3rd
-      quad(x1Q, y1Q, 0, x2Q, y2Q, x3Q, y3Q, x4Q, y4Q);
+      quad(x1Q, y1Q, x2Q, y2Q, x3Q, y3Q, x4Q, y4Q);
       //2nd
       quad(x1Q - 50, y1Q - 60, x2Q - 50, y2Q - 60, x3Q - 50, y3Q - 60, x4Q - 50, y4Q - 60);
       //6th
